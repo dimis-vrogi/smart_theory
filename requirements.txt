@@ -1,6 +1,6 @@
-sentence-transformers
-torch
-scikit-learn
+streamlit
+python-docx
 pandas
 numpy
-python-docx
+sentence-transformers
+scikit-learn
