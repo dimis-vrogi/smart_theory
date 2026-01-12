@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-DOC_PATH = "/content/Trapeza.docx" 
+DOC_PATH = "Trapeza.docx" 
 doc = Document(DOC_PATH)
 
 rows = []
